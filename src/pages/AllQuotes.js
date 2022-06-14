@@ -34,7 +34,6 @@ const AllQuotes = () => {
 		<NoQuotesFound />;
 	}
 
-	console.log(loadedQuotes);
 	return <QuoteList quotes={loadedQuotes} />;
 };
 
