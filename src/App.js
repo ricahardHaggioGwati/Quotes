@@ -6,7 +6,7 @@ import AllQuotes from './pages/AllQuotes';
 import NewQuote from './pages/NewQuote';
 import NotFound from './pages/NotFound';
 
-function App() { 
+function App() {
 	return (
 		<div>
 			<Layout>
