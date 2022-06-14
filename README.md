@@ -22,8 +22,8 @@ You may also see any lint errors in the console.
 
 ## Project Info & Usage
 
-    - [Usage](./src/documentation/workflow.pdf)    
+- [Usage](./src/documentation/workflow.pdf)
 
 ### App image
 
-    - [App image](./src/documentation/app-image.png)
+![Image of the app](./src/documentation/app-image.png)
